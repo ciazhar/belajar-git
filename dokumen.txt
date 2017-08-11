@@ -1,1 +1,6 @@
 Belajar Git bareng Doscom
+
+
+Roadmap :
+- Membuat Repository Git
+- Staging File pada repository git
